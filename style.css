@@ -114,4 +114,7 @@
     color: white;
     font-size: 22px;
   }
+  @media (min-width: 768px) {
+   
+  }
   
