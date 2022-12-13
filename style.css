@@ -177,3 +177,7 @@ header nav .form {
     background-size: cover;
     position: relative;
   }
+  .landing .overlay {
+    position: absolute;
+
+  }
