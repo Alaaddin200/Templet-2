@@ -204,3 +204,7 @@ header nav .form {
     .landing .text {
       width: 100%;
     }
+    .landing .text .content {
+        max-width: 100%;
+      }
+    }
