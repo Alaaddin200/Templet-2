@@ -86,6 +86,7 @@
     z-index: 2;
   }
   header .container {
- 
+    display: flex;
+\
   }
   
