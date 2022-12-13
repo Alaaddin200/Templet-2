@@ -119,4 +119,7 @@
       display: none;
     }
   }
+  header nav ul {
+    display: flex;
+  }
   
