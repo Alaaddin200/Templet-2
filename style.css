@@ -127,3 +127,7 @@
       display: none;
     }
   }
+  header nav .toggle-menu:hover + ul {
+    display: flex;
+
+  }
