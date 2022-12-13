@@ -106,6 +106,7 @@
   }
   header nav {
     flex: 1;
-;
+    display: flex;
+
   }
   
