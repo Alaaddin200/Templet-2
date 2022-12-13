@@ -170,3 +170,7 @@ header nav .form {
     transform: translateY(-50%);
     right: 0;
   }
+  .landing {
+    min-height: 100vh;
+
+  }
