@@ -208,3 +208,7 @@ header nav .form {
         max-width: 100%;
       }
     }
+    .landing .text .content h2 {
+        font-size: 32px;
+  
+      }
