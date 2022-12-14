@@ -286,3 +286,7 @@ header nav .form {
             margin-bottom: 30px;
             color: var(--main-color);
           }
+          .services .srv-box p {
+            line-height: 2;
+            ;
+          }
