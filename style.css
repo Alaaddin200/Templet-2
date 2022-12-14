@@ -290,3 +290,7 @@ header nav .form {
             line-height: 2;
             color: #777;
           }
+          .design {
+            padding-top: var(--section-padding);
+        
+          }
