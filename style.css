@@ -229,3 +229,6 @@ header nav .form {
           display: none;
         }
       }
+      .landing .fa-angle-left {
+        left: 30px;
+      }
