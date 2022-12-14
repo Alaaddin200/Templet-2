@@ -297,5 +297,6 @@ header nav .form {
             position: relative;
             background-image: url("../images/design-features.jpg");
             background-size: cover;
-         
+            display: flex;
+           
           }
