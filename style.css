@@ -304,5 +304,6 @@ header nav .form {
           .design::before {
             content: "";
             position: absolute;
-           
+            left: 0;
+            
           }
