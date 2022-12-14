@@ -253,3 +253,7 @@ header nav .form {
         background-color: var(--main-color);
         border-color: var(--main-color);
       }
+      .services {
+        padding-top: var(--section-padding);
+        
+      }
