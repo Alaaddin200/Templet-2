@@ -245,5 +245,6 @@ header nav .form {
       .landing .bullets li {
         width: 20px;
         height: 20px;
- 
+        border: 1px solid white;
+      
       }
