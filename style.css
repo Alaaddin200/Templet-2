@@ -314,5 +314,5 @@ header nav .form {
           .design .text {
             position: relative;
             z-index: 2;
-           
+            flex: 1;
           }
