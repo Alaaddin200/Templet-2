@@ -301,3 +301,7 @@ header nav .form {
             align-items: center;
             overflow: hidden;
           }
+          .design::before {
+            content: "";
+            
+          }
