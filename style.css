@@ -316,3 +316,6 @@ header nav .form {
             z-index: 2;
             flex: 1;
           }
+          .design .image {
+            text-align: center;
+          }
