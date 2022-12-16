@@ -372,6 +372,6 @@ header nav .form {
           }
           .portfolio .imgs-container .box {
             overflow: hidden;
-            
+            position: relative;
           }
           
