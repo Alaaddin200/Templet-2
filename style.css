@@ -674,6 +674,10 @@ header nav .form {
             margin-bottom: 20px;
             display: block;
           }
+          .pricing {
+            padding-top: var(--section-padding);
+           
+          }
           
           
           
