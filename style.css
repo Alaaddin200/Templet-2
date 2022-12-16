@@ -592,4 +592,8 @@ header nav .form {
             font-size: 14px;
             margin-bottom: 10px;
           }
+          .our-skills .testimonials .bullets {
+            display: flex;
+           
+          }
           
