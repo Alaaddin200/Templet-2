@@ -669,5 +669,10 @@ header nav .form {
           .quote .container {
             position: relative;
           }
+          .quote q {
+            font-size: 30px;
+            
+          }
+          
           
           
