@@ -436,8 +436,9 @@ header nav .form {
             width: 100%;
           }
           .video .text {
-            width: 100%;
-            position: absolute;
-       
-          }
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  
+}
           
