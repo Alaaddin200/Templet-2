@@ -361,4 +361,8 @@ header nav .form {
           .portfolio .shuffle li {
             padding: 10px;
           }
+          .portfolio .shuffle li.active {
+            background-color: var(--main-color);
+            color: white;
+          }
           
