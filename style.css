@@ -522,6 +522,7 @@ header nav .form {
           .stats .container .box i {
             width: 40px;
             height: 40px;
-         
+            display: flex;
+          
           }
           
