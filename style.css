@@ -420,4 +420,7 @@ header nav .form {
             text-decoration: none;
             text-transform: uppercase;
           }
+          .video {
+            position: relative;
+          }
           
