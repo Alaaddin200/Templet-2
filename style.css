@@ -648,3 +648,7 @@ header nav .form {
             right: -8px;
             top: -15px;
           }
+          .quote {
+            padding-top: var(--section-padding);
+          
+          }
