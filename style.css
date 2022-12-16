@@ -356,6 +356,6 @@ header nav .form {
           }
           .portfolio .shuffle {
             display: flex;
-            
+            justify-content: center;
           }
           
