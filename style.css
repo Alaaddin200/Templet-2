@@ -341,4 +341,8 @@ header nav .form {
           .design .text ul li {
             padding: 15px 0;
           }
+          .design .text ul li::before {
+            font-family: "Font Awesome 5 Free";
+            
+          }
           
