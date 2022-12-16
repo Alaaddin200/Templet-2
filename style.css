@@ -525,6 +525,7 @@ header nav .form {
             display: flex;
             background-color: black;
             justify-content: center;
-         
+            align-items: center;
+          
           }
           
