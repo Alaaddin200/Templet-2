@@ -467,6 +467,7 @@ header nav .form {
           }
           .about img {
             position: relative;
+            bottom: -120px;
            
           }
           
