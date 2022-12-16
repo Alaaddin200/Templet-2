@@ -349,4 +349,8 @@ header nav .form {
             position: relative;
             top: 1px;
           }
+          .portfolio {
+            padding-top: var(--section-padding);
+          
+          }
           
