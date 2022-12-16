@@ -370,4 +370,8 @@ header nav .form {
             flex-wrap: wrap;
             margin-top: 60px;
           }
+          .portfolio .imgs-container .box {
+            overflow: hidden;
+            
+          }
           
