@@ -338,4 +338,7 @@ header nav .form {
             text-transform: uppercase;
             margin-bottom: 40px;
           }
+          .design .text ul li {
+            padding: 15px 0;
+          }
           
