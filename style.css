@@ -487,6 +487,7 @@ header nav .form {
           }
           .stats::before {
             content: "";
-      
+            position: absolute;
+
           }
           
