@@ -594,7 +594,7 @@ header nav .form {
           }
           .our-skills .testimonials .bullets {
             display: flex;
+            justify-content: center;
             
-           
           }
           
