@@ -324,4 +324,8 @@ header nav .form {
               display: none;
             }
           }
+          .design .image img {
+            position: relative;
+            
+          }
           
