@@ -367,6 +367,7 @@ header nav .form {
           }
           .portfolio .imgs-container {
             display: flex;
+            flex-wrap: wrap;
            
           }
           
