@@ -828,5 +828,5 @@ header nav .form {
           }
           .contact {
             padding-top: var(--section-padding);
-           
+            padding-bottom: var(--section-padding);
           }
