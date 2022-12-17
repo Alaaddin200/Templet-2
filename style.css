@@ -774,5 +774,5 @@ header nav .form {
           .subscribe .container {
             position: relative;
             display: flex;
-            
+            align-items: center;
           }      
