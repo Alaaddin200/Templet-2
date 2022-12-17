@@ -839,3 +839,6 @@ header nav .form {
               flex-direction: column;
             }
           }
+          .contact .content form {
+            flex-basis: 70%;
+          }
