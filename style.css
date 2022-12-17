@@ -928,5 +928,6 @@ header nav .form {
           }
           .footer p:not(.copyright) {
             text-transform: uppercase;
-           
+            padding: 20px;
+          
           }
