@@ -754,5 +754,10 @@ header nav .form {
             padding: 15px 30px;
             text-decoration: none;
           }
+          .subscribe {
+            padding-top: var(--section-padding);
+        
+          }
+
           
           
