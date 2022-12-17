@@ -784,5 +784,6 @@ header nav .form {
           .subscribe form {
             display: flex;
             position: relative;
-          
+            width: 500px;
+           
           }
