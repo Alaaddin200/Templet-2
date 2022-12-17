@@ -860,5 +860,6 @@ header nav .form {
             color: white;
             padding: 20px;
             border: none;
+            display: flex;
           
           }
