@@ -817,3 +817,7 @@ header nav .form {
           .subscribe form ::placeholder {
             color: white;
           }
+          .subscribe p {
+            line-height: 2;
+           
+          }
