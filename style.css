@@ -762,6 +762,10 @@ header nav .form {
             position: relative;
             color: white;
           }
+          .subscribe::before {
+            content: "";
+         
+          }
 
           
           
