@@ -783,5 +783,6 @@ header nav .form {
           }     
           .subscribe form {
             display: flex;
-         
+            position: relative;
+          
           }
