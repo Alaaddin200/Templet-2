@@ -897,3 +897,8 @@ header nav .form {
             color: #777;
             line-height: 2;
           }
+          @media (max-width: 767px) {
+            .contact .content .info address {
+              margin-bottom: 40px;
+            }
+          }
