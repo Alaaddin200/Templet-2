@@ -832,5 +832,5 @@ header nav .form {
           }
           .contact .content {
             display: flex;
-            
+            justify-content: space-between;
           }
