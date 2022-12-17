@@ -790,5 +790,6 @@ header nav .form {
           .subscribe form i {
             position: absolute;
             top: 50%;
-         
+            transform: translateY(-50%);
+            
           }
