@@ -697,3 +697,7 @@ header nav .form {
             margin-bottom: 20px;
             text-transform: uppercase;
           }
+          .pricing .plans .plan .head span {
+            font-size: 60px;
+            
+          }
