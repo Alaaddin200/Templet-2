@@ -773,5 +773,6 @@ header nav .form {
           }
           .subscribe .container {
             position: relative;
-           
+            display: flex;
+            
           }      
