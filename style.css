@@ -830,3 +830,7 @@ header nav .form {
             padding-top: var(--section-padding);
             padding-bottom: var(--section-padding);
           }
+          .contact .content {
+            display: flex;
+            
+          }
