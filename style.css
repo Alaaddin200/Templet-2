@@ -757,7 +757,8 @@ header nav .form {
           .subscribe {
             padding-top: var(--section-padding);
             padding-bottom: var(--section-padding);
-      e;
+            background-image: url("../images/subscribe.jpg");
+          
           }
 
           
