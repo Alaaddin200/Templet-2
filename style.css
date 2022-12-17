@@ -902,3 +902,7 @@ header nav .form {
               margin-bottom: 40px;
             }
           }
+          .footer {
+            padding-top: calc(var(--section-padding) / 2);
+         
+          }
