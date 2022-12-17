@@ -871,6 +871,6 @@ header nav .form {
           @media (max-width: 767px) {
             .contact .content .info {
               order: -1;
-            
+              text-align: center;
             }
           }
